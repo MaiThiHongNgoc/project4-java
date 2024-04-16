@@ -85,39 +85,5 @@ public class Main {
         System.out.println("0: Thoat");
     }
 
-//        System.out.println("Nhập số dư ban đầu:");
-//        double initialBalance = scanner.nextDouble();
-//        account.setBalance(initialBalance);
-//
-//        // Display account information
-//        System.out.println("\nthông tin tài khoản:");
-//        account.displayAccountInfo();
-//
-//        // Perform transactions
-//        System.out.println("\nNhập số tiền gửi:");
-//        double depositAmount = scanner.nextDouble();
-//        account.deposit(depositAmount);
-//
-//        System.out.println("\nNhập số tiền rút:");
-//        double withdrawalAmount = scanner.nextDouble();
-//        account.withdraw(withdrawalAmount);
-//
-//        // Create another account for testing transfer
-//        AccountBank destinationAccount = new AccountBank();
-//        destinationAccount.setAccountNumber("123456789");
-//        destinationAccount.setAccountHolderName("HongNgoc Holder");
-//        destinationAccount.setBalance(1000.0);
-//
-//        System.out.println("\nNhập số tiền chuyển:");
-//        double transferAmount = scanner.nextDouble();
-//        account.transfer(destinationAccount, transferAmount);
-//
-//        // Display updated account information
-//        System.out.println("\nThông tin tài khoản được cập nhật:");
-//        account.displayAccountInfo();
-//        System.out.println("\nHongNgoc Account Information:");
-//        destinationAccount.displayAccountInfo();
-//
-//        scanner.close();
-//    }
+
 }
